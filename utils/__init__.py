@@ -5,6 +5,12 @@ from .load_data import (
 
 from .preprocessing import preprocessing_pipeline
 
-from .build_matrix import build_bigram_matrix
+from .build_matrix import (
+    build_bigram_matrix,
+    build_co_occurrence_matrix
+)
 
-from .compute import compute_nll
+from .compute import (
+    compute_nll,
+    compute_ppmi
+)

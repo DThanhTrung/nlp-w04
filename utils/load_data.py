@@ -16,7 +16,7 @@ def load_data_for_task_2(
     sentences = []
 
     with open(data_path, "r") as f :
-        sentence = f.readline()
-        sentences.append(sentence)
+        for line in f :
+            sentences.append(line.strip())
 
     return sentences
