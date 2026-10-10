@@ -1,0 +1,61 @@
+id,task,arg1,arg2,arg3,prompt,option_0,option_1,option_2,option_3
+Q001,bigram,,,,Choose the sentence with the LOWEST average NLL under the add-one bigram LM.,the teacher taught the loan at the office,the surgeon operated the loan at the office,the clerk processed the loan at the office,the farmer planted the loan at the office
+Q002,bigram,,,,Choose the sentence with the LOWEST average NLL under the add-one bigram LM.,the farmer carefully treated the patient,the gardener carefully treated the patient,the nurse carefully judged the patient,the nurse carefully treated the patient
+Q003,bigram,,,,Choose the sentence with the LOWEST average NLL under the add-one bigram LM.,the analyst analyzed the song at the hall,the advisor reviewed the song at the hall,the pianist practiced the song at the hall,the waiter served the song at the hall
+Q004,bigram,,,,Choose the sentence with the LOWEST average NLL under the add-one bigram LM.,yesterday the banker approved the lesson,yesterday the physician diagnosed the lesson,yesterday the teacher taught the lesson,yesterday the nurse treated the lesson
+Q005,bigram,,,,Choose the sentence with the LOWEST average NLL under the add-one bigram LM.,yesterday the doctor examined the match,yesterday the coach coached the match,yesterday the waiter served the match,yesterday the harvester gathered the match
+Q006,bigram,,,,Choose the sentence with the LOWEST average NLL under the add-one bigram LM.,the waiter carefully served the credit,the advisor carefully reviewed the credit,the analyst carefully analyzed the credit,the advisor carefully flew the credit
+Q007,bigram,,,,Choose the sentence with the LOWEST average NLL under the add-one bigram LM.,the lawyer argued the trial at the chamber,the clerk processed the trial at the chamber,the driver drove the trial at the chamber,the baker baked the trial at the chamber
+Q008,bigram,,,,Choose the sentence with the LOWEST average NLL under the add-one bigram LM.,the witness checked the evidence at the chamber,the pianist testified the evidence at the chamber,the passenger testified the evidence at the chamber,the witness testified the evidence at the chamber
+Q009,bigram,,,,Choose the sentence with the LOWEST average NLL under the add-one bigram LM.,the developer deployed the network today,the passenger boarded the network today,the tutor explained the network today,the athlete trained the network today
+Q010,bigram,,,,Choose the sentence with the LOWEST average NLL under the add-one bigram LM.,yesterday the engineer tested the code,yesterday the witness testified the code,yesterday the coach tested the code,yesterday the cook tested the code
+Q011,bigram,,,,Choose the sentence with the LOWEST average NLL under the add-one bigram LM.,yesterday the surgeon operated the match,yesterday the athlete trained the match,yesterday the farmer planted the match,yesterday the chef cooked the match
+Q012,bigram,,,,Choose the sentence with the LOWEST average NLL under the add-one bigram LM.,the teacher taught the network at the laboratory,the lawyer argued the network at the laboratory,the clerk processed the network at the laboratory,the programmer coded the network at the laboratory
+Q013,bigram,,,,Choose the sentence with the LOWEST average NLL under the add-one bigram LM.,the tutor carefully drove the exam,the programmer carefully explained the exam,the lawyer carefully argued the exam,the tutor carefully explained the exam
+Q014,bigram,,,,Choose the sentence with the LOWEST average NLL under the add-one bigram LM.,yesterday the analyst analyzed the seed,yesterday the harvester gathered the seed,yesterday the waiter served the seed,yesterday the doctor examined the seed
+Q015,bigram,,,,Choose the sentence with the LOWEST average NLL under the add-one bigram LM.,yesterday the doctor examined the journey,yesterday the player played the journey,yesterday the coach coached the journey,yesterday the conductor checked the journey
+Q016,bigram,,,,Choose the sentence with the LOWEST average NLL under the add-one bigram LM.,the professor lectured the lesson today,the worker harvested the lesson today,the banker approved the lesson today,the gardener watered the lesson today
+Q017,bigram,,,,Choose the sentence with the LOWEST average NLL under the add-one bigram LM.,yesterday the developer deployed the recipe,yesterday the cook prepared the recipe,yesterday the cook checked the recipe,yesterday the advisor reviewed the recipe
+Q018,bigram,,,,Choose the sentence with the LOWEST average NLL under the add-one bigram LM.,the cook sang the music today,the singer played the music today,the singer sang the music today,the witness testified the music today
+Q019,bigram,,,,Choose the sentence with the LOWEST average NLL under the add-one bigram LM.,the guitarist carefully played the song,the physician carefully played the song,the banker carefully played the song,the chef carefully played the song
+Q020,bigram,,,,Choose the sentence with the LOWEST average NLL under the add-one bigram LM.,the banker approved the ticket at the station,the surgeon operated the ticket at the station,the passenger boarded the ticket at the station,the teacher taught the ticket at the station
+Q021,ppmi,doctor,,,Which candidate is most similar to 'doctor' using your PPMI vectors?,lawyer,professor,nurse,banker
+Q022,ppmi,nurse,,,Which candidate is most similar to 'nurse' using your PPMI vectors?,physician,attorney,referee,driver
+Q023,ppmi,teacher,,,Which candidate is most similar to 'teacher' using your PPMI vectors?,witness,waiter,student,programmer
+Q024,ppmi,student,,,Which candidate is most similar to 'student' using your PPMI vectors?,passenger,physician,teacher,lawyer
+Q025,ppmi,chef,,,Which candidate is most similar to 'chef' using your PPMI vectors?,lawyer,conductor,cook,guitarist
+Q026,ppmi,waiter,,,Which candidate is most similar to 'waiter' using your PPMI vectors?,teacher,musician,pilot,cook
+Q027,ppmi,driver,,,Which candidate is most similar to 'driver' using your PPMI vectors?,passenger,worker,teacher,developer
+Q028,ppmi,passenger,,,Which candidate is most similar to 'passenger' using your PPMI vectors?,driver,clerk,baker,developer
+Q029,ppmi,programmer,,,Which candidate is most similar to 'programmer' using your PPMI vectors?,pilot,referee,cook,analyst
+Q030,ppmi,developer,,,Which candidate is most similar to 'developer' using your PPMI vectors?,analyst,doctor,athlete,customer
+Q031,ppmi,farmer,,,Which candidate is most similar to 'farmer' using your PPMI vectors?,pilot,harvester,athlete,baker
+Q032,ppmi,worker,,,Which candidate is most similar to 'worker' using your PPMI vectors?,professor,referee,attorney,gardener
+Q033,ppmi,banker,,,Which candidate is most similar to 'banker' using your PPMI vectors?,engineer,pianist,physician,clerk
+Q034,ppmi,clerk,,,Which candidate is most similar to 'clerk' using your PPMI vectors?,conductor,banker,doctor,coach
+Q035,ppmi,player,,,Which candidate is most similar to 'player' using your PPMI vectors?,guitarist,referee,conductor,programmer
+Q036,ppmi,coach,,,Which candidate is most similar to 'coach' using your PPMI vectors?,doctor,professor,referee,worker
+Q037,ppmi,lawyer,,,Which candidate is most similar to 'lawyer' using your PPMI vectors?,tutor,conductor,farmer,witness
+Q038,ppmi,judge,,,Which candidate is most similar to 'judge' using your PPMI vectors?,referee,witness,analyst,baker
+Q039,ppmi,singer,,,Which candidate is most similar to 'singer' using your PPMI vectors?,conductor,guitarist,engineer,tutor
+Q040,ppmi,musician,,,Which candidate is most similar to 'musician' using your PPMI vectors?,pianist,analyst,referee,pilot
+Q041,analogy,france,paris,japan,france : paris :: japan : ?,nairobi,tokyo,rome,cairo
+Q042,analogy,italy,rome,kenya,italy : rome :: kenya : ?,paris,cairo,nairobi,rome
+Q043,analogy,japan,tokyo,canada,japan : tokyo :: canada : ?,paris,ottawa,nairobi,rome
+Q044,analogy,kenya,nairobi,egypt,kenya : nairobi :: egypt : ?,paris,cairo,ottawa,tokyo
+Q045,analogy,man,woman,prince,man : woman :: prince : ?,woman,actress,princess,queen
+Q046,analogy,king,queen,actor,king : queen :: actor : ?,actress,queen,sister,aunt
+Q047,analogy,prince,princess,uncle,prince : princess :: uncle : ?,actress,aunt,woman,sister
+Q048,analogy,actor,actress,brother,actor : actress :: brother : ?,queen,actress,sister,woman
+Q049,analogy,big,bigger,tall,big : bigger :: tall : ?,taller,younger,faster,bigger
+Q050,analogy,small,smaller,fast,small : smaller :: fast : ?,taller,older,bigger,faster
+Q051,analogy,tall,taller,young,tall : taller :: young : ?,faster,bigger,smaller,younger
+Q052,analogy,fast,faster,old,fast : faster :: old : ?,smaller,bigger,faster,older
+Q053,analogy,cat,cats,car,cat : cats :: car : ?,trees,dogs,cats,cars
+Q054,analogy,dog,dogs,book,dog : dogs :: book : ?,cars,apples,trees,books
+Q055,analogy,car,cars,tree,car : cars :: tree : ?,trees,apples,dogs,cats
+Q056,analogy,book,books,apple,book : books :: apple : ?,apples,dogs,books,cars
+Q057,analogy,horse,foal,sheep,horse : foal :: sheep : ?,duckling,foal,lamb,kid
+Q058,analogy,cow,calf,goat,cow : calf :: goat : ?,kid,lamb,foal,duckling
+Q059,analogy,sheep,lamb,duck,sheep : lamb :: duck : ?,chick,kid,duckling,calf
+Q060,analogy,goat,kid,chicken,goat : kid :: chicken : ?,foal,chick,calf,lamb

@@ -1,0 +1,2400 @@
+the referee talked about game with a colleague
+the professor discussed exam at the school
+the singer checked the guitar before work
+the pilot discussed route at the terminal
+people saw the worker near the field
+the lawyer talked about trial with a colleague
+the cook checked the knife before work
+the lawyer learned about case yesterday
+people saw the developer near the datacenter
+the farmer used the tractor during work
+the baker checked the pan before work
+the driver learned about journey yesterday
+the waiter discussed menu at the kitchen
+the conductor talked about journey with a colleague
+people saw the baker near the bakery
+the analyst used the keyboard during work
+the harvester learned about harvest yesterday
+the pianist discussed sound at the hall
+the judge learned about trial yesterday
+the student learned about exam yesterday
+the guitarist learned about music yesterday
+the harvester learned about harvest yesterday
+a surgeon often works near the ward
+the analyst checked the server before work
+the pianist learned about concert yesterday
+the pilot worked in the station
+the physician worked in the clinic
+the clerk checked the form before work
+the guitarist used the guitar during work
+the tutor worked in the school
+the developer worked in the laboratory
+people saw the doctor near the ward
+the banker worked in the branch
+people saw the surgeon near the ward
+the musician worked in the stage
+people saw the engineer near the office
+people saw the developer near the datacenter
+the programmer learned about data yesterday
+a attorney often works near the office
+the cook learned about meal yesterday
+the customer talked about payment with a colleague
+the harvester discussed crop at the barn
+the driver learned about ticket yesterday
+the teacher talked about homework with a colleague
+the player used the timer during work
+the worker learned about harvest yesterday
+the customer checked the card before work
+the engineer talked about network with a colleague
+the harvester talked about crop with a colleague
+the lawyer worked in the chamber
+a guitarist often works near the stage
+the passenger learned about route yesterday
+the driver used the ticket during work
+the witness worked in the chamber
+a farmer often works near the barn
+the student used the textbook during work
+the teacher checked the pencil before work
+the doctor worked in the clinic
+the tutor used the pencil during work
+the referee used the timer during work
+the singer discussed music at the stage
+a chef often works near the restaurant
+the advisor learned about account yesterday
+the musician discussed music at the hall
+the farmer learned about seed yesterday
+the driver discussed ticket at the station
+the baker worked in the restaurant
+the judge worked in the chamber
+the farmer used the shovel during work
+a singer often works near the studio
+the passenger worked in the station
+people saw the passenger near the terminal
+the worker worked in the field
+people saw the cook near the kitchen
+the passenger talked about ticket with a colleague
+the cook worked in the restaurant
+the baker talked about dish with a colleague
+the driver learned about route yesterday
+people saw the tutor near the classroom
+people saw the worker near the field
+the clerk talked about account with a colleague
+the banker talked about account with a colleague
+the chef discussed menu at the kitchen
+the conductor worked in the station
+the customer worked in the bank
+the advisor checked the report before work
+people saw the judge near the chamber
+a harvester often works near the field
+the developer used the database during work
+the cook checked the knife before work
+the witness checked the report before work
+the harvester discussed crop at the farm
+people saw the harvester near the field
+the surgeon learned about patient yesterday
+the guitarist checked the microphone before work
+people saw the baker near the bakery
+the lawyer used the file during work
+the clerk learned about payment yesterday
+people saw the programmer near the datacenter
+the worker worked in the barn
+the judge discussed law at the court
+people saw the surgeon near the hospital
+the teacher learned about lesson yesterday
+the baker worked in the kitchen
+the judge worked in the court
+the worker used the tractor during work
+the engineer used the server during work
+the chef talked about dish with a colleague
+the pianist worked in the hall
+the athlete discussed score at the arena
+a lawyer often works near the court
+the lawyer learned about case yesterday
+the waiter learned about dish yesterday
+the programmer talked about code with a colleague
+a guitarist often works near the hall
+the teacher used the whiteboard during work
+the singer checked the piano before work
+the athlete learned about match yesterday
+the worker used the tractor during work
+the surgeon talked about patient with a colleague
+the attorney talked about trial with a colleague
+the waiter worked in the bakery
+the developer checked the server before work
+people saw the analyst near the laboratory
+the witness talked about case with a colleague
+people saw the tutor near the classroom
+people saw the judge near the court
+the lawyer learned about case yesterday
+the cook checked the knife before work
+the chef used the plate during work
+the cook worked in the bakery
+the farmer used the basket during work
+the athlete checked the timer before work
+the baker learned about meal yesterday
+the clerk discussed account at the bank
+a clerk often works near the branch
+the student checked the textbook before work
+the worker used the shovel during work
+the waiter used the oven during work
+the athlete checked the jersey before work
+the farmer talked about harvest with a colleague
+people saw the judge near the court
+a passenger often works near the airport
+people saw the harvester near the field
+people saw the doctor near the ward
+the singer discussed song at the hall
+the baker worked in the bakery
+people saw the farmer near the farm
+the cook talked about meal with a colleague
+a driver often works near the terminal
+the teacher checked the textbook before work
+the customer checked the form before work
+the professor used the notebook during work
+people saw the athlete near the stadium
+the baker learned about dish yesterday
+people saw the clerk near the office
+the analyst talked about software with a colleague
+the cook discussed meal at the bakery
+the gardener used the tractor during work
+the cook discussed menu at the kitchen
+the musician discussed concert at the studio
+people saw the driver near the airport
+the singer learned about concert yesterday
+the athlete worked in the stadium
+the guitarist learned about concert yesterday
+the conductor checked the map before work
+the clerk discussed account at the branch
+the gardener checked the hose before work
+the analyst discussed code at the office
+the referee learned about team yesterday
+the physician discussed treatment at the ward
+the harvester used the hose during work
+the pianist worked in the stage
+people saw the professor near the classroom
+the engineer talked about network with a colleague
+the doctor checked the scanner before work
+a pianist often works near the stage
+a surgeon often works near the ward
+the baker checked the plate before work
+people saw the teacher near the classroom
+the coach talked about match with a colleague
+the cook used the knife during work
+a guitarist often works near the stage
+the analyst used the keyboard during work
+the tutor worked in the school
+the athlete discussed team at the field
+a developer often works near the datacenter
+the doctor checked the syringe before work
+the banker used the report during work
+the professor learned about lesson yesterday
+the clerk discussed loan at the bank
+people saw the coach near the stadium
+the musician used the guitar during work
+the guitarist learned about sound yesterday
+the doctor checked the scanner before work
+the harvester used the hose during work
+the professor learned about lesson yesterday
+the judge checked the file before work
+the surgeon worked in the clinic
+a baker often works near the restaurant
+the surgeon discussed health at the ward
+a lawyer often works near the chamber
+people saw the engineer near the laboratory
+a musician often works near the hall
+the conductor used the ticket during work
+the lawyer worked in the office
+the attorney worked in the chamber
+the conductor checked the radio before work
+a driver often works near the terminal
+the athlete learned about score yesterday
+the harvester learned about seed yesterday
+a driver often works near the station
+the tutor discussed homework at the classroom
+the analyst worked in the datacenter
+the musician checked the piano before work
+the singer worked in the hall
+a engineer often works near the office
+a attorney often works near the chamber
+the nurse used the stethoscope during work
+a farmer often works near the barn
+the baker used the knife during work
+people saw the chef near the restaurant
+a nurse often works near the hospital
+the passenger discussed ticket at the station
+the customer checked the form before work
+the guitarist discussed song at the stage
+a athlete often works near the field
+the player used the timer during work
+the banker talked about loan with a colleague
+a advisor often works near the office
+the attorney worked in the court
+the professor worked in the school
+the musician worked in the hall
+the developer used the keyboard during work
+the lawyer learned about trial yesterday
+the developer checked the keyboard before work
+the advisor used the report during work
+the passenger discussed ticket at the airport
+the pianist worked in the hall
+the banker worked in the office
+the analyst discussed code at the laboratory
+the cook worked in the restaurant
+the lawyer learned about evidence yesterday
+a customer often works near the branch
+the engineer learned about data yesterday
+the clerk used the calculator during work
+the chef worked in the restaurant
+the nurse discussed health at the ward
+the tutor worked in the classroom
+the nurse talked about patient with a colleague
+a professor often works near the school
+the baker worked in the bakery
+the harvester talked about soil with a colleague
+people saw the customer near the office
+the guitarist checked the speaker before work
+a referee often works near the stadium
+the harvester used the tractor during work
+the physician used the syringe during work
+the player talked about game with a colleague
+people saw the cook near the kitchen
+the conductor checked the radio before work
+the gardener learned about soil yesterday
+people saw the witness near the office
+the nurse discussed health at the ward
+the waiter discussed meal at the restaurant
+the farmer used the shovel during work
+the advisor checked the form before work
+people saw the surgeon near the clinic
+a chef often works near the kitchen
+the driver checked the radio before work
+people saw the worker near the field
+people saw the athlete near the arena
+the student checked the whiteboard before work
+a student often works near the school
+people saw the engineer near the laboratory
+the waiter worked in the kitchen
+the baker talked about recipe with a colleague
+the developer worked in the datacenter
+a physician often works near the ward
+people saw the conductor near the station
+the harvester used the tractor during work
+the player talked about match with a colleague
+the guitarist discussed concert at the stage
+the lawyer discussed evidence at the chamber
+people saw the analyst near the datacenter
+people saw the judge near the court
+the musician discussed music at the stage
+the physician discussed medicine at the clinic
+the tutor checked the pencil before work
+the teacher talked about homework with a colleague
+the gardener checked the hose before work
+people saw the judge near the chamber
+the farmer checked the basket before work
+the doctor learned about medicine yesterday
+the coach learned about team yesterday
+the farmer learned about soil yesterday
+people saw the passenger near the airport
+the teacher discussed exam at the classroom
+people saw the witness near the chamber
+the athlete checked the ball before work
+a pianist often works near the hall
+the advisor checked the card before work
+the pianist used the microphone during work
+the musician worked in the stage
+a engineer often works near the laboratory
+the student used the textbook during work
+a judge often works near the court
+the clerk used the form during work
+the lawyer discussed case at the office
+a analyst often works near the laboratory
+the baker learned about meal yesterday
+the cook used the knife during work
+the baker checked the plate before work
+the engineer checked the keyboard before work
+the musician worked in the stage
+the pilot talked about ticket with a colleague
+the referee worked in the stadium
+the driver discussed journey at the airport
+people saw the conductor near the station
+the doctor learned about medicine yesterday
+the conductor discussed journey at the station
+a gardener often works near the field
+a analyst often works near the datacenter
+the teacher checked the notebook before work
+people saw the pianist near the stage
+the driver learned about route yesterday
+the baker used the pan during work
+the pilot checked the map before work
+the surgeon used the syringe during work
+the student worked in the classroom
+the chef discussed recipe at the restaurant
+a worker often works near the field
+the waiter used the knife during work
+the conductor worked in the terminal
+the student checked the notebook before work
+the developer used the keyboard during work
+the doctor checked the stethoscope before work
+the cook discussed meal at the kitchen
+the player used the timer during work
+a physician often works near the ward
+the lawyer learned about case yesterday
+the physician worked in the ward
+the coach used the timer during work
+a pianist often works near the stage
+the waiter used the knife during work
+the waiter checked the oven before work
+the player learned about score yesterday
+the harvester talked about seed with a colleague
+the surgeon talked about medicine with a colleague
+people saw the cook near the bakery
+a waiter often works near the kitchen
+the engineer checked the computer before work
+the teacher discussed exam at the library
+the banker discussed credit at the office
+the judge checked the document before work
+the tutor discussed lesson at the school
+the witness discussed law at the court
+the baker used the knife during work
+the pilot talked about ticket with a colleague
+the harvester worked in the farm
+the harvester used the tractor during work
+the baker worked in the restaurant
+people saw the judge near the office
+the athlete used the timer during work
+the driver discussed ticket at the airport
+the teacher learned about textbook yesterday
+a banker often works near the office
+people saw the advisor near the office
+the professor checked the whiteboard before work
+people saw the driver near the station
+a developer often works near the laboratory
+the athlete learned about match yesterday
+a driver often works near the station
+the clerk talked about payment with a colleague
+a analyst often works near the datacenter
+the chef checked the knife before work
+the harvester checked the tractor before work
+the student learned about homework yesterday
+the cook talked about menu with a colleague
+the judge used the record during work
+people saw the baker near the kitchen
+the nurse discussed treatment at the ward
+the conductor discussed ticket at the station
+the attorney worked in the court
+the worker checked the basket before work
+the baker checked the plate before work
+the gardener checked the tractor before work
+the surgeon used the syringe during work
+the passenger talked about ticket with a colleague
+the student talked about textbook with a colleague
+the judge worked in the court
+the cook learned about recipe yesterday
+the athlete learned about team yesterday
+the athlete talked about game with a colleague
+the student worked in the school
+the chef worked in the restaurant
+the driver talked about route with a colleague
+a coach often works near the arena
+the analyst talked about software with a colleague
+the programmer talked about software with a colleague
+the singer talked about concert with a colleague
+the pianist used the microphone during work
+the passenger checked the map before work
+a advisor often works near the branch
+the worker talked about crop with a colleague
+the tutor worked in the classroom
+the advisor worked in the bank
+people saw the conductor near the airport
+the referee worked in the stadium
+the surgeon checked the scanner before work
+people saw the programmer near the office
+the student discussed textbook at the classroom
+the harvester worked in the barn
+the customer checked the card before work
+the referee used the whistle during work
+the chef discussed meal at the bakery
+the farmer learned about harvest yesterday
+the singer talked about song with a colleague
+a pianist often works near the hall
+the musician checked the microphone before work
+the student used the notebook during work
+the baker worked in the restaurant
+the gardener talked about crop with a colleague
+the harvester discussed soil at the barn
+people saw the passenger near the airport
+the harvester checked the basket before work
+people saw the customer near the branch
+people saw the student near the school
+a doctor often works near the hospital
+the chef checked the knife before work
+the judge discussed trial at the chamber
+the programmer discussed code at the datacenter
+the conductor used the ticket during work
+the worker checked the tractor before work
+the athlete used the jersey during work
+the developer learned about code yesterday
+the customer checked the form before work
+the physician learned about medicine yesterday
+people saw the singer near the studio
+a teacher often works near the school
+the physician learned about treatment yesterday
+the guitarist checked the speaker before work
+the gardener talked about soil with a colleague
+the developer discussed software at the office
+the worker worked in the barn
+the waiter used the oven during work
+the advisor checked the form before work
+the advisor checked the calculator before work
+a referee often works near the arena
+the doctor used the bandage during work
+the analyst talked about software with a colleague
+the musician learned about concert yesterday
+the advisor used the report during work
+the professor used the whiteboard during work
+a farmer often works near the field
+the worker worked in the barn
+the developer talked about data with a colleague
+the referee learned about team yesterday
+the driver discussed ticket at the station
+a teacher often works near the library
+the waiter checked the plate before work
+the gardener worked in the field
+the banker learned about loan yesterday
+a player often works near the stadium
+the passenger talked about ticket with a colleague
+the lawyer worked in the chamber
+the banker talked about payment with a colleague
+the pilot checked the map before work
+the attorney worked in the court
+people saw the engineer near the laboratory
+the doctor learned about health yesterday
+a driver often works near the terminal
+the witness learned about case yesterday
+the gardener checked the hose before work
+the waiter used the oven during work
+the player talked about team with a colleague
+the gardener talked about soil with a colleague
+people saw the farmer near the farm
+a pilot often works near the airport
+the analyst learned about network yesterday
+people saw the cook near the restaurant
+the farmer learned about seed yesterday
+the gardener checked the hose before work
+the referee discussed team at the arena
+the waiter worked in the kitchen
+the clerk used the card during work
+the pilot used the map during work
+the cook used the plate during work
+the physician talked about medicine with a colleague
+the passenger used the vehicle during work
+the gardener talked about seed with a colleague
+a witness often works near the chamber
+the baker worked in the kitchen
+the lawyer worked in the court
+the pilot learned about route yesterday
+the tutor used the whiteboard during work
+the judge worked in the chamber
+the attorney discussed case at the office
+a teacher often works near the library
+the baker used the knife during work
+the pianist used the speaker during work
+the harvester worked in the field
+people saw the advisor near the office
+the judge discussed evidence at the office
+a cook often works near the bakery
+people saw the athlete near the field
+the farmer learned about seed yesterday
+the programmer checked the database before work
+the conductor worked in the station
+the professor talked about lesson with a colleague
+the attorney checked the record before work
+people saw the waiter near the bakery
+a nurse often works near the hospital
+the waiter talked about meal with a colleague
+the referee used the jersey during work
+the doctor talked about treatment with a colleague
+the customer learned about payment yesterday
+the student discussed exam at the school
+the farmer checked the shovel before work
+the farmer checked the tractor before work
+the banker checked the report before work
+the worker talked about seed with a colleague
+the driver learned about ticket yesterday
+people saw the nurse near the clinic
+the student talked about lesson with a colleague
+the student discussed textbook at the library
+the engineer worked in the datacenter
+the student worked in the classroom
+people saw the student near the library
+the gardener learned about crop yesterday
+the banker checked the report before work
+a analyst often works near the office
+people saw the engineer near the office
+people saw the lawyer near the court
+a nurse often works near the clinic
+the coach discussed team at the stadium
+the guitarist used the speaker during work
+the programmer learned about software yesterday
+a advisor often works near the bank
+people saw the witness near the office
+the tutor discussed homework at the school
+the singer learned about music yesterday
+the worker used the tractor during work
+the attorney talked about case with a colleague
+a baker often works near the kitchen
+the judge used the report during work
+the pilot worked in the station
+the analyst learned about data yesterday
+people saw the student near the library
+the gardener learned about soil yesterday
+people saw the clerk near the office
+the surgeon talked about health with a colleague
+the passenger worked in the terminal
+the customer learned about credit yesterday
+the judge worked in the court
+the clerk used the report during work
+the pianist learned about concert yesterday
+the athlete used the whistle during work
+the passenger checked the radio before work
+the engineer worked in the office
+the tutor talked about homework with a colleague
+the clerk used the card during work
+the athlete discussed score at the arena
+the attorney learned about trial yesterday
+the gardener checked the shovel before work
+a judge often works near the court
+the judge discussed trial at the court
+the baker learned about recipe yesterday
+people saw the driver near the terminal
+the cook worked in the kitchen
+the chef used the plate during work
+the pianist worked in the studio
+people saw the driver near the terminal
+the advisor learned about loan yesterday
+the clerk talked about payment with a colleague
+people saw the athlete near the arena
+the baker checked the knife before work
+the judge used the document during work
+the gardener discussed seed at the barn
+the passenger discussed travel at the airport
+the farmer used the basket during work
+people saw the player near the field
+the judge checked the report before work
+the engineer worked in the office
+the waiter talked about recipe with a colleague
+the athlete talked about team with a colleague
+the tutor learned about textbook yesterday
+people saw the gardener near the field
+the coach discussed match at the field
+the engineer used the database during work
+people saw the engineer near the laboratory
+the conductor learned about travel yesterday
+people saw the teacher near the library
+the referee discussed score at the field
+a clerk often works near the branch
+people saw the musician near the hall
+the driver worked in the airport
+the baker learned about meal yesterday
+people saw the singer near the hall
+the driver used the vehicle during work
+a customer often works near the office
+the engineer discussed network at the office
+the coach learned about score yesterday
+the athlete learned about match yesterday
+the engineer talked about network with a colleague
+the attorney checked the record before work
+the lawyer worked in the office
+people saw the witness near the chamber
+the conductor checked the ticket before work
+the customer used the card during work
+the pianist talked about music with a colleague
+a advisor often works near the branch
+people saw the witness near the chamber
+the clerk learned about credit yesterday
+a worker often works near the field
+the teacher discussed exam at the library
+the professor used the pencil during work
+the worker worked in the barn
+the worker discussed seed at the farm
+the judge used the report during work
+the musician worked in the studio
+the pianist worked in the studio
+the surgeon used the stethoscope during work
+people saw the doctor near the hospital
+a customer often works near the bank
+a pilot often works near the airport
+people saw the worker near the barn
+people saw the professor near the school
+the singer talked about song with a colleague
+the gardener discussed soil at the field
+the pianist talked about concert with a colleague
+people saw the pianist near the hall
+the advisor learned about payment yesterday
+a player often works near the stadium
+a student often works near the classroom
+the surgeon worked in the clinic
+the chef checked the knife before work
+a coach often works near the stadium
+the doctor discussed treatment at the clinic
+the advisor talked about credit with a colleague
+the driver learned about travel yesterday
+the programmer worked in the office
+the referee talked about score with a colleague
+the passenger worked in the airport
+people saw the driver near the airport
+people saw the judge near the office
+a lawyer often works near the court
+the referee learned about match yesterday
+a tutor often works near the library
+people saw the musician near the stage
+the driver learned about travel yesterday
+the referee used the jersey during work
+the lawyer used the document during work
+a physician often works near the clinic
+a coach often works near the stadium
+the player worked in the field
+the doctor worked in the clinic
+a guitarist often works near the studio
+the engineer discussed network at the laboratory
+the nurse talked about patient with a colleague
+people saw the baker near the bakery
+people saw the passenger near the airport
+the developer discussed network at the laboratory
+a tutor often works near the classroom
+people saw the waiter near the kitchen
+the coach checked the timer before work
+the athlete talked about game with a colleague
+people saw the farmer near the farm
+people saw the cook near the restaurant
+people saw the judge near the court
+the pilot talked about route with a colleague
+the worker used the hose during work
+people saw the passenger near the terminal
+the doctor used the stethoscope during work
+the analyst talked about network with a colleague
+a pilot often works near the terminal
+the analyst checked the database before work
+the guitarist checked the guitar before work
+the baker used the oven during work
+the physician checked the syringe before work
+the analyst worked in the datacenter
+a student often works near the classroom
+a referee often works near the arena
+the customer learned about account yesterday
+the referee worked in the stadium
+the advisor discussed loan at the office
+a banker often works near the bank
+people saw the advisor near the bank
+the musician checked the piano before work
+the chef checked the knife before work
+the tutor talked about lesson with a colleague
+a tutor often works near the library
+the driver learned about route yesterday
+the nurse used the scanner during work
+the doctor worked in the ward
+the gardener used the tractor during work
+the clerk discussed payment at the branch
+the customer used the report during work
+people saw the guitarist near the stage
+the witness learned about case yesterday
+people saw the chef near the bakery
+the analyst discussed data at the datacenter
+the engineer checked the server before work
+the driver worked in the station
+the cook checked the pan before work
+people saw the banker near the bank
+a witness often works near the office
+the gardener checked the basket before work
+the physician worked in the ward
+the banker talked about account with a colleague
+the student learned about textbook yesterday
+a surgeon often works near the ward
+a chef often works near the restaurant
+the banker talked about account with a colleague
+the witness used the document during work
+a engineer often works near the laboratory
+the surgeon talked about medicine with a colleague
+the witness discussed evidence at the chamber
+the pianist discussed sound at the studio
+the banker talked about account with a colleague
+the player learned about score yesterday
+people saw the developer near the laboratory
+the banker learned about account yesterday
+the programmer checked the keyboard before work
+the lawyer learned about case yesterday
+the harvester discussed harvest at the farm
+the attorney discussed trial at the court
+people saw the nurse near the clinic
+people saw the judge near the chamber
+the programmer learned about code yesterday
+the pianist discussed music at the hall
+the gardener worked in the farm
+the professor learned about homework yesterday
+the developer talked about code with a colleague
+the witness checked the record before work
+people saw the cook near the restaurant
+the athlete discussed score at the arena
+the guitarist used the guitar during work
+the engineer worked in the laboratory
+the passenger discussed route at the terminal
+people saw the teacher near the school
+a driver often works near the airport
+a clerk often works near the bank
+the clerk learned about payment yesterday
+the witness talked about trial with a colleague
+people saw the advisor near the branch
+the gardener discussed crop at the farm
+a driver often works near the station
+the advisor learned about payment yesterday
+people saw the engineer near the datacenter
+a teacher often works near the classroom
+the driver used the vehicle during work
+the advisor talked about loan with a colleague
+the gardener used the hose during work
+people saw the pianist near the stage
+people saw the customer near the bank
+a guitarist often works near the stage
+people saw the engineer near the datacenter
+the singer used the piano during work
+the clerk checked the report before work
+the pianist worked in the studio
+the worker talked about seed with a colleague
+the player worked in the field
+the pilot learned about journey yesterday
+a athlete often works near the stadium
+a harvester often works near the farm
+people saw the advisor near the office
+the gardener talked about soil with a colleague
+the clerk worked in the bank
+the gardener used the tractor during work
+people saw the professor near the library
+the lawyer worked in the court
+a coach often works near the stadium
+people saw the professor near the school
+the cook learned about recipe yesterday
+the attorney discussed law at the office
+the physician discussed health at the clinic
+the worker learned about soil yesterday
+a player often works near the stadium
+the pianist talked about sound with a colleague
+a pianist often works near the stage
+the coach learned about team yesterday
+the doctor talked about health with a colleague
+the farmer talked about harvest with a colleague
+the advisor checked the card before work
+a coach often works near the arena
+the clerk learned about loan yesterday
+the attorney discussed trial at the chamber
+a player often works near the arena
+the student learned about homework yesterday
+the tutor used the pencil during work
+a coach often works near the arena
+people saw the professor near the library
+the athlete checked the whistle before work
+people saw the passenger near the station
+the guitarist worked in the hall
+the baker checked the knife before work
+a referee often works near the stadium
+the analyst used the server during work
+the singer learned about concert yesterday
+the conductor used the map during work
+the gardener discussed harvest at the field
+the doctor checked the stethoscope before work
+the player checked the timer before work
+the singer used the microphone during work
+the engineer learned about software yesterday
+a judge often works near the office
+the advisor used the form during work
+the passenger used the map during work
+the cook learned about dish yesterday
+people saw the analyst near the office
+the advisor learned about account yesterday
+the engineer checked the keyboard before work
+the baker talked about recipe with a colleague
+the surgeon talked about health with a colleague
+the player worked in the stadium
+the pianist learned about music yesterday
+the player talked about score with a colleague
+a referee often works near the stadium
+a teacher often works near the school
+the conductor learned about journey yesterday
+the conductor talked about route with a colleague
+the nurse checked the scanner before work
+the waiter checked the pan before work
+the teacher discussed lesson at the school
+the tutor learned about textbook yesterday
+people saw the student near the library
+the coach learned about score yesterday
+the teacher discussed textbook at the library
+people saw the professor near the library
+a surgeon often works near the ward
+the teacher learned about textbook yesterday
+the witness discussed evidence at the office
+the baker discussed meal at the kitchen
+the lawyer talked about evidence with a colleague
+a harvester often works near the field
+people saw the passenger near the terminal
+the lawyer checked the file before work
+the witness learned about case yesterday
+a driver often works near the airport
+the doctor talked about patient with a colleague
+the harvester checked the hose before work
+a pianist often works near the studio
+the passenger talked about journey with a colleague
+the programmer checked the keyboard before work
+the athlete checked the ball before work
+the passenger checked the vehicle before work
+a professor often works near the school
+the baker learned about menu yesterday
+people saw the driver near the airport
+people saw the baker near the restaurant
+the surgeon talked about patient with a colleague
+the cook discussed recipe at the restaurant
+the surgeon checked the stethoscope before work
+the developer discussed code at the laboratory
+the banker talked about payment with a colleague
+the chef talked about meal with a colleague
+the passenger worked in the station
+the gardener talked about crop with a colleague
+people saw the banker near the office
+the surgeon used the bandage during work
+the referee used the ball during work
+the farmer checked the basket before work
+the lawyer discussed case at the chamber
+the tutor learned about lesson yesterday
+a programmer often works near the office
+the baker talked about meal with a colleague
+the programmer checked the computer before work
+the tutor used the notebook during work
+a nurse often works near the clinic
+the engineer discussed software at the office
+the engineer worked in the laboratory
+people saw the surgeon near the clinic
+the witness discussed trial at the office
+the pilot learned about route yesterday
+the waiter discussed recipe at the restaurant
+the surgeon used the bandage during work
+the advisor talked about account with a colleague
+the coach worked in the field
+the physician used the syringe during work
+the judge used the record during work
+the worker learned about soil yesterday
+the doctor used the scanner during work
+the customer used the calculator during work
+the musician talked about music with a colleague
+the musician discussed song at the studio
+the physician used the scanner during work
+the witness used the document during work
+people saw the programmer near the laboratory
+the chef talked about dish with a colleague
+the student discussed lesson at the library
+the athlete talked about game with a colleague
+people saw the lawyer near the court
+the referee talked about score with a colleague
+the chef worked in the restaurant
+the programmer worked in the datacenter
+the witness used the record during work
+the analyst talked about code with a colleague
+people saw the waiter near the restaurant
+people saw the customer near the bank
+people saw the harvester near the field
+the coach talked about match with a colleague
+people saw the baker near the bakery
+the referee worked in the stadium
+the doctor talked about medicine with a colleague
+the professor learned about textbook yesterday
+a programmer often works near the datacenter
+the lawyer worked in the office
+the student learned about homework yesterday
+the professor checked the whiteboard before work
+the nurse worked in the ward
+the programmer checked the database before work
+the witness learned about evidence yesterday
+the tutor discussed exam at the library
+a student often works near the school
+the conductor checked the vehicle before work
+the harvester learned about crop yesterday
+the analyst used the database during work
+the witness worked in the chamber
+the teacher talked about lesson with a colleague
+the musician talked about concert with a colleague
+people saw the harvester near the farm
+the chef used the plate during work
+people saw the student near the classroom
+a developer often works near the office
+the advisor worked in the office
+the clerk learned about loan yesterday
+people saw the customer near the office
+people saw the referee near the stadium
+a attorney often works near the office
+a passenger often works near the terminal
+the coach discussed match at the field
+the conductor used the map during work
+the farmer used the shovel during work
+the waiter worked in the kitchen
+the cook learned about dish yesterday
+the gardener talked about seed with a colleague
+the passenger discussed journey at the airport
+the student learned about lesson yesterday
+the athlete talked about score with a colleague
+the advisor used the calculator during work
+the harvester worked in the barn
+the lawyer discussed case at the court
+the engineer learned about software yesterday
+people saw the physician near the ward
+people saw the guitarist near the studio
+people saw the referee near the stadium
+a advisor often works near the branch
+the clerk learned about account yesterday
+people saw the advisor near the bank
+the tutor worked in the library
+the athlete worked in the field
+the programmer used the server during work
+the pilot used the radio during work
+the waiter used the pan during work
+the referee discussed match at the stadium
+the conductor checked the radio before work
+the chef talked about recipe with a colleague
+the teacher talked about exam with a colleague
+the conductor learned about route yesterday
+the referee checked the ball before work
+the judge used the record during work
+the worker worked in the farm
+the tutor discussed lesson at the library
+the worker used the tractor during work
+the tutor learned about homework yesterday
+the chef learned about meal yesterday
+the lawyer checked the file before work
+a attorney often works near the court
+the teacher discussed lesson at the classroom
+the pianist worked in the stage
+the baker worked in the restaurant
+the musician used the guitar during work
+the referee used the timer during work
+people saw the programmer near the datacenter
+the musician checked the guitar before work
+the customer used the calculator during work
+the clerk discussed loan at the branch
+a banker often works near the branch
+the singer talked about music with a colleague
+the driver discussed ticket at the airport
+the baker used the pan during work
+the guitarist worked in the studio
+the analyst checked the server before work
+the farmer talked about soil with a colleague
+a worker often works near the field
+the athlete discussed game at the stadium
+the banker used the form during work
+the physician worked in the clinic
+people saw the coach near the arena
+the coach discussed game at the field
+a cook often works near the restaurant
+the referee talked about score with a colleague
+a banker often works near the office
+the advisor discussed account at the office
+the cook checked the oven before work
+people saw the coach near the arena
+the gardener checked the shovel before work
+the judge checked the file before work
+the musician worked in the hall
+the chef checked the knife before work
+the farmer discussed crop at the barn
+the cook talked about meal with a colleague
+the witness used the report during work
+the lawyer used the file during work
+the coach learned about match yesterday
+the clerk learned about account yesterday
+the judge discussed case at the office
+the witness worked in the office
+a gardener often works near the farm
+the chef talked about meal with a colleague
+a programmer often works near the laboratory
+the clerk used the card during work
+a nurse often works near the clinic
+the programmer discussed code at the laboratory
+people saw the tutor near the school
+the farmer learned about soil yesterday
+the musician learned about sound yesterday
+the tutor talked about textbook with a colleague
+the guitarist worked in the hall
+the athlete used the ball during work
+the analyst talked about data with a colleague
+the witness checked the document before work
+the witness checked the record before work
+the athlete learned about team yesterday
+the worker discussed soil at the farm
+a musician often works near the stage
+a clerk often works near the branch
+people saw the student near the school
+the passenger discussed journey at the station
+the farmer learned about crop yesterday
+the coach talked about match with a colleague
+the analyst checked the keyboard before work
+the chef learned about meal yesterday
+people saw the engineer near the datacenter
+the passenger talked about ticket with a colleague
+people saw the nurse near the clinic
+people saw the attorney near the court
+the engineer used the server during work
+the conductor used the vehicle during work
+people saw the professor near the library
+a engineer often works near the datacenter
+the driver worked in the station
+the singer talked about concert with a colleague
+the judge learned about case yesterday
+the engineer worked in the office
+the nurse worked in the hospital
+a chef often works near the kitchen
+the guitarist worked in the hall
+people saw the programmer near the datacenter
+the singer checked the piano before work
+the clerk discussed loan at the bank
+the customer learned about credit yesterday
+the gardener discussed harvest at the field
+the harvester talked about seed with a colleague
+the judge worked in the office
+the baker learned about menu yesterday
+the coach checked the timer before work
+the athlete learned about team yesterday
+the teacher discussed homework at the classroom
+the farmer worked in the barn
+the guitarist talked about music with a colleague
+the tutor checked the textbook before work
+the lawyer learned about evidence yesterday
+the student learned about homework yesterday
+the harvester used the basket during work
+the programmer worked in the datacenter
+the surgeon learned about medicine yesterday
+a teacher often works near the classroom
+the gardener used the basket during work
+the driver discussed ticket at the airport
+the driver learned about travel yesterday
+the student worked in the school
+the musician learned about song yesterday
+people saw the pianist near the studio
+the advisor talked about loan with a colleague
+the worker learned about harvest yesterday
+the analyst used the server during work
+people saw the worker near the barn
+the tutor used the textbook during work
+the pianist talked about sound with a colleague
+the engineer used the server during work
+people saw the worker near the field
+the musician used the speaker during work
+the athlete talked about score with a colleague
+the referee discussed game at the stadium
+the referee worked in the stadium
+the musician checked the guitar before work
+the attorney learned about law yesterday
+the teacher discussed textbook at the school
+people saw the singer near the hall
+the coach discussed team at the arena
+the baker used the pan during work
+the engineer learned about data yesterday
+the pilot talked about route with a colleague
+the singer worked in the hall
+a analyst often works near the laboratory
+the developer talked about software with a colleague
+the attorney discussed case at the office
+the engineer checked the database before work
+the advisor used the form during work
+the attorney used the document during work
+the witness talked about case with a colleague
+the teacher checked the whiteboard before work
+people saw the advisor near the bank
+the guitarist learned about music yesterday
+a customer often works near the bank
+the advisor talked about account with a colleague
+the tutor talked about lesson with a colleague
+people saw the gardener near the barn
+the attorney talked about evidence with a colleague
+the physician discussed medicine at the hospital
+the developer checked the database before work
+the advisor used the card during work
+the pianist discussed concert at the hall
+a customer often works near the branch
+a pianist often works near the stage
+the customer learned about account yesterday
+a singer often works near the hall
+the pilot discussed ticket at the terminal
+the coach learned about team yesterday
+people saw the player near the arena
+the analyst discussed network at the office
+the driver talked about travel with a colleague
+the teacher discussed textbook at the school
+the developer worked in the datacenter
+the judge checked the file before work
+a harvester often works near the farm
+the lawyer talked about evidence with a colleague
+the pianist talked about sound with a colleague
+the chef discussed dish at the kitchen
+people saw the nurse near the hospital
+the passenger worked in the station
+the worker learned about soil yesterday
+the engineer checked the computer before work
+the waiter worked in the kitchen
+people saw the conductor near the airport
+the conductor used the map during work
+the physician used the syringe during work
+the passenger used the radio during work
+a cook often works near the restaurant
+the athlete checked the ball before work
+the doctor talked about treatment with a colleague
+a conductor often works near the station
+the lawyer talked about case with a colleague
+the driver learned about route yesterday
+the professor checked the pencil before work
+the player checked the whistle before work
+a programmer often works near the datacenter
+the pianist checked the piano before work
+the pianist checked the microphone before work
+the witness checked the report before work
+the driver learned about journey yesterday
+the advisor learned about loan yesterday
+the driver worked in the station
+the developer worked in the datacenter
+people saw the banker near the office
+people saw the chef near the bakery
+the attorney discussed law at the office
+the gardener discussed crop at the barn
+the professor used the notebook during work
+a waiter often works near the kitchen
+the judge talked about case with a colleague
+a musician often works near the stage
+the driver used the radio during work
+the student learned about homework yesterday
+the physician talked about health with a colleague
+the passenger worked in the station
+the athlete learned about match yesterday
+a singer often works near the stage
+the pilot learned about travel yesterday
+the advisor learned about loan yesterday
+the advisor discussed payment at the office
+the farmer used the shovel during work
+the banker checked the calculator before work
+the teacher talked about homework with a colleague
+people saw the conductor near the station
+the coach talked about match with a colleague
+the engineer learned about network yesterday
+a pianist often works near the hall
+the musician used the piano during work
+the gardener checked the basket before work
+the attorney used the record during work
+the engineer discussed software at the office
+people saw the clerk near the office
+the surgeon discussed medicine at the ward
+the singer checked the microphone before work
+the professor checked the textbook before work
+the conductor worked in the station
+people saw the attorney near the office
+the pianist learned about music yesterday
+the customer checked the form before work
+people saw the cook near the restaurant
+people saw the guitarist near the hall
+the musician learned about concert yesterday
+people saw the pianist near the hall
+the baker talked about menu with a colleague
+the musician discussed music at the studio
+the surgeon discussed patient at the clinic
+the developer used the server during work
+people saw the developer near the laboratory
+the student talked about textbook with a colleague
+the coach learned about score yesterday
+the engineer used the server during work
+the pianist discussed song at the stage
+the musician discussed music at the stage
+the customer discussed payment at the office
+people saw the pianist near the hall
+the cook checked the plate before work
+the conductor learned about route yesterday
+the developer checked the keyboard before work
+the clerk discussed account at the branch
+the teacher used the textbook during work
+the coach worked in the field
+people saw the attorney near the chamber
+people saw the worker near the farm
+the banker discussed account at the office
+the doctor discussed patient at the clinic
+a player often works near the arena
+the farmer talked about soil with a colleague
+the gardener talked about harvest with a colleague
+the pilot discussed route at the station
+the athlete checked the whistle before work
+the professor talked about homework with a colleague
+people saw the pianist near the stage
+the coach learned about game yesterday
+the surgeon used the stethoscope during work
+a passenger often works near the station
+the student discussed lesson at the library
+a physician often works near the ward
+people saw the physician near the ward
+people saw the athlete near the field
+a worker often works near the field
+people saw the professor near the library
+the pilot talked about ticket with a colleague
+the doctor used the bandage during work
+the engineer used the computer during work
+the guitarist checked the microphone before work
+the conductor worked in the terminal
+the analyst worked in the datacenter
+the waiter talked about meal with a colleague
+people saw the clerk near the branch
+people saw the attorney near the chamber
+the conductor checked the ticket before work
+the teacher checked the whiteboard before work
+the attorney learned about case yesterday
+the player checked the timer before work
+the conductor talked about journey with a colleague
+the farmer checked the basket before work
+the cook used the knife during work
+the guitarist used the guitar during work
+the student worked in the school
+a referee often works near the arena
+the surgeon used the scanner during work
+the physician used the bandage during work
+people saw the guitarist near the hall
+the surgeon used the stethoscope during work
+people saw the witness near the court
+people saw the witness near the office
+the physician discussed health at the hospital
+a lawyer often works near the chamber
+a banker often works near the branch
+the advisor learned about account yesterday
+the worker checked the shovel before work
+a coach often works near the arena
+people saw the harvester near the barn
+a cook often works near the kitchen
+the surgeon used the stethoscope during work
+the nurse discussed patient at the hospital
+a harvester often works near the farm
+the attorney used the document during work
+people saw the surgeon near the ward
+the professor discussed exam at the library
+a programmer often works near the datacenter
+a lawyer often works near the court
+the waiter learned about dish yesterday
+the farmer talked about seed with a colleague
+the witness worked in the office
+the advisor learned about account yesterday
+a lawyer often works near the office
+the nurse learned about patient yesterday
+the customer worked in the branch
+the customer used the card during work
+the developer used the database during work
+the waiter worked in the bakery
+the coach learned about score yesterday
+the analyst learned about software yesterday
+people saw the guitarist near the stage
+the developer talked about software with a colleague
+the professor worked in the school
+the witness discussed case at the chamber
+the coach talked about match with a colleague
+the chef worked in the restaurant
+the conductor learned about ticket yesterday
+the nurse learned about health yesterday
+people saw the customer near the bank
+people saw the student near the library
+the guitarist talked about music with a colleague
+the chef worked in the kitchen
+the passenger used the map during work
+the developer checked the database before work
+a surgeon often works near the clinic
+a customer often works near the bank
+people saw the harvester near the farm
+the guitarist used the piano during work
+the athlete used the whistle during work
+the waiter worked in the kitchen
+the singer worked in the hall
+the passenger discussed travel at the airport
+the analyst used the server during work
+the customer worked in the office
+the musician learned about sound yesterday
+the physician discussed medicine at the clinic
+the musician learned about music yesterday
+the analyst checked the keyboard before work
+the developer checked the keyboard before work
+the waiter talked about meal with a colleague
+the nurse used the syringe during work
+the attorney learned about law yesterday
+the judge talked about case with a colleague
+a professor often works near the library
+the conductor checked the vehicle before work
+the athlete discussed team at the arena
+a attorney often works near the office
+the referee talked about game with a colleague
+the judge learned about trial yesterday
+the teacher discussed textbook at the school
+the attorney used the report during work
+the banker discussed account at the branch
+the gardener worked in the field
+a singer often works near the studio
+the conductor worked in the terminal
+the judge used the report during work
+the advisor learned about account yesterday
+people saw the professor near the classroom
+the nurse used the scanner during work
+the pilot checked the radio before work
+the tutor used the pencil during work
+people saw the guitarist near the studio
+people saw the judge near the chamber
+the cook checked the oven before work
+the chef used the plate during work
+the coach used the jersey during work
+the referee checked the whistle before work
+the harvester worked in the barn
+people saw the singer near the stage
+the attorney talked about evidence with a colleague
+a chef often works near the bakery
+the referee learned about team yesterday
+the customer used the calculator during work
+a teacher often works near the classroom
+a doctor often works near the hospital
+the clerk checked the report before work
+the professor used the notebook during work
+a pianist often works near the hall
+the passenger checked the vehicle before work
+the pilot talked about ticket with a colleague
+the conductor talked about route with a colleague
+people saw the clerk near the bank
+the lawyer discussed evidence at the office
+the developer worked in the datacenter
+the player learned about match yesterday
+the programmer worked in the datacenter
+the driver talked about ticket with a colleague
+the student worked in the school
+the player used the whistle during work
+the passenger checked the map before work
+people saw the student near the school
+the programmer checked the server before work
+the coach learned about game yesterday
+a lawyer often works near the office
+the harvester checked the hose before work
+the player worked in the stadium
+a pianist often works near the stage
+the teacher used the whiteboard during work
+the professor discussed homework at the school
+the doctor checked the stethoscope before work
+a pilot often works near the airport
+the developer worked in the datacenter
+the farmer checked the shovel before work
+a professor often works near the library
+the student learned about homework yesterday
+a lawyer often works near the chamber
+the gardener used the tractor during work
+a witness often works near the court
+the chef learned about recipe yesterday
+the pianist worked in the studio
+the clerk talked about payment with a colleague
+the analyst used the keyboard during work
+the tutor talked about exam with a colleague
+the nurse worked in the ward
+a programmer often works near the office
+people saw the guitarist near the stage
+a developer often works near the datacenter
+the surgeon used the bandage during work
+the physician checked the stethoscope before work
+the engineer used the computer during work
+the teacher learned about exam yesterday
+the doctor used the stethoscope during work
+the farmer talked about harvest with a colleague
+the conductor used the ticket during work
+the advisor worked in the bank
+the coach talked about match with a colleague
+the lawyer used the document during work
+the pilot checked the map before work
+the tutor used the notebook during work
+the harvester worked in the farm
+the physician used the bandage during work
+the tutor used the whiteboard during work
+the developer checked the database before work
+people saw the lawyer near the office
+the judge worked in the office
+the passenger checked the vehicle before work
+people saw the player near the stadium
+people saw the pilot near the airport
+the advisor worked in the office
+the passenger used the ticket during work
+the gardener learned about soil yesterday
+the baker checked the plate before work
+people saw the chef near the restaurant
+the referee talked about game with a colleague
+the student used the textbook during work
+the student worked in the library
+a lawyer often works near the chamber
+the athlete discussed game at the stadium
+the tutor discussed lesson at the library
+the athlete worked in the field
+the customer discussed payment at the branch
+the waiter worked in the restaurant
+the player worked in the stadium
+the gardener checked the hose before work
+the coach talked about game with a colleague
+the student discussed lesson at the classroom
+the pilot worked in the terminal
+people saw the musician near the hall
+a banker often works near the bank
+the programmer discussed code at the office
+the driver checked the radio before work
+the passenger used the radio during work
+the engineer used the database during work
+the pilot talked about route with a colleague
+the player worked in the stadium
+a programmer often works near the datacenter
+people saw the nurse near the ward
+the banker discussed loan at the branch
+the attorney worked in the office
+the doctor learned about medicine yesterday
+a gardener often works near the farm
+the doctor checked the bandage before work
+the musician worked in the hall
+a student often works near the library
+the professor discussed textbook at the library
+the surgeon used the bandage during work
+the teacher worked in the library
+the physician learned about treatment yesterday
+the conductor checked the map before work
+a athlete often works near the stadium
+people saw the gardener near the farm
+the farmer learned about seed yesterday
+the tutor checked the notebook before work
+a cook often works near the bakery
+a professor often works near the school
+the referee checked the whistle before work
+a doctor often works near the clinic
+the witness used the record during work
+the advisor checked the card before work
+the waiter discussed meal at the bakery
+the doctor used the bandage during work
+the student checked the notebook before work
+the professor talked about homework with a colleague
+the pilot talked about ticket with a colleague
+the cook talked about meal with a colleague
+people saw the player near the stadium
+the conductor learned about journey yesterday
+a guitarist often works near the stage
+the musician discussed concert at the stage
+the developer talked about code with a colleague
+a farmer often works near the field
+the conductor talked about journey with a colleague
+a athlete often works near the arena
+the musician discussed concert at the stage
+the musician used the speaker during work
+the teacher checked the whiteboard before work
+people saw the customer near the branch
+the student discussed textbook at the library
+people saw the cook near the kitchen
+a banker often works near the bank
+the clerk checked the report before work
+the teacher used the notebook during work
+the harvester used the basket during work
+the singer learned about song yesterday
+a lawyer often works near the office
+the pianist talked about sound with a colleague
+the doctor checked the scanner before work
+the advisor used the calculator during work
+the tutor talked about exam with a colleague
+the guitarist talked about concert with a colleague
+the customer talked about account with a colleague
+a lawyer often works near the office
+the lawyer discussed law at the office
+the driver talked about ticket with a colleague
+a student often works near the classroom
+the musician discussed concert at the hall
+a customer often works near the office
+the referee talked about score with a colleague
+people saw the attorney near the chamber
+the singer talked about sound with a colleague
+a engineer often works near the datacenter
+the gardener used the shovel during work
+people saw the driver near the station
+the clerk discussed account at the bank
+people saw the conductor near the station
+the analyst talked about network with a colleague
+the singer learned about sound yesterday
+the banker worked in the bank
+the engineer talked about data with a colleague
+a lawyer often works near the court
+the musician checked the speaker before work
+the customer worked in the branch
+a nurse often works near the ward
+the banker worked in the bank
+the pilot worked in the station
+the surgeon learned about medicine yesterday
+people saw the baker near the kitchen
+a programmer often works near the datacenter
+the teacher discussed lesson at the library
+the analyst learned about data yesterday
+a clerk often works near the branch
+a chef often works near the kitchen
+the developer worked in the laboratory
+the nurse checked the scanner before work
+the worker checked the basket before work
+people saw the worker near the farm
+the pilot checked the radio before work
+the physician worked in the clinic
+the cook learned about menu yesterday
+the player checked the timer before work
+the clerk worked in the bank
+the analyst checked the computer before work
+the nurse discussed medicine at the ward
+a surgeon often works near the hospital
+the gardener talked about soil with a colleague
+the engineer learned about code yesterday
+the teacher discussed exam at the library
+a pianist often works near the hall
+the pianist discussed song at the hall
+the banker checked the card before work
+a guitarist often works near the stage
+a musician often works near the hall
+the professor discussed exam at the classroom
+the developer worked in the datacenter
+the clerk learned about payment yesterday
+the tutor used the whiteboard during work
+the nurse checked the bandage before work
+the teacher used the pencil during work
+the chef worked in the kitchen
+the engineer learned about software yesterday
+the witness learned about evidence yesterday
+the pilot used the map during work
+the pianist used the speaker during work
+people saw the athlete near the arena
+the chef checked the oven before work
+people saw the advisor near the bank
+the driver used the map during work
+the surgeon discussed patient at the clinic
+a referee often works near the arena
+the chef talked about recipe with a colleague
+the doctor discussed health at the clinic
+the gardener used the hose during work
+the athlete checked the whistle before work
+the witness discussed case at the court
+a pilot often works near the terminal
+the baker discussed recipe at the kitchen
+the programmer talked about network with a colleague
+the teacher learned about exam yesterday
+the driver checked the radio before work
+the athlete talked about score with a colleague
+the tutor talked about lesson with a colleague
+people saw the judge near the office
+people saw the singer near the studio
+the banker discussed loan at the office
+a doctor often works near the hospital
+the tutor learned about homework yesterday
+the teacher checked the pencil before work
+the programmer used the database during work
+the nurse worked in the clinic
+the tutor used the textbook during work
+the student worked in the classroom
+the player discussed game at the arena
+a farmer often works near the field
+the judge talked about law with a colleague
+the doctor talked about patient with a colleague
+the chef talked about dish with a colleague
+the engineer learned about software yesterday
+the banker learned about payment yesterday
+the surgeon discussed medicine at the ward
+the passenger worked in the terminal
+the professor worked in the library
+a conductor often works near the airport
+a doctor often works near the ward
+the gardener used the shovel during work
+people saw the gardener near the farm
+a pianist often works near the hall
+the clerk talked about credit with a colleague
+the musician worked in the studio
+people saw the lawyer near the office
+the customer worked in the office
+the waiter checked the plate before work
+the guitarist learned about sound yesterday
+the passenger checked the ticket before work
+people saw the guitarist near the studio
+a judge often works near the court
+people saw the passenger near the airport
+the attorney talked about evidence with a colleague
+the player talked about score with a colleague
+the guitarist worked in the hall
+the nurse discussed patient at the hospital
+the worker talked about soil with a colleague
+a attorney often works near the office
+people saw the pianist near the hall
+the advisor discussed payment at the bank
+the tutor learned about exam yesterday
+the customer learned about account yesterday
+the baker worked in the restaurant
+the worker learned about seed yesterday
+the guitarist used the guitar during work
+the developer worked in the datacenter
+the doctor talked about medicine with a colleague
+a guitarist often works near the studio
+the student talked about textbook with a colleague
+the physician checked the syringe before work
+a surgeon often works near the ward
+the lawyer learned about case yesterday
+the gardener checked the tractor before work
+the attorney checked the report before work
+the tutor worked in the school
+the athlete checked the whistle before work
+a gardener often works near the field
+the advisor used the report during work
+the singer talked about song with a colleague
+a physician often works near the clinic
+the waiter used the oven during work
+a singer often works near the studio
+the surgeon used the syringe during work
+the analyst worked in the office
+the pilot used the radio during work
+the physician discussed medicine at the clinic
+the harvester worked in the field
+the worker learned about harvest yesterday
+the programmer talked about code with a colleague
+the pianist discussed concert at the studio
+the driver worked in the airport
+the coach worked in the stadium
+the farmer used the tractor during work
+the tutor checked the textbook before work
+the programmer checked the database before work
+the analyst worked in the office
+the clerk worked in the branch
+the judge worked in the court
+the developer used the database during work
+the clerk talked about account with a colleague
+the pilot learned about ticket yesterday
+the banker talked about credit with a colleague
+the lawyer learned about evidence yesterday
+the professor worked in the library
+the teacher learned about exam yesterday
+a musician often works near the stage
+the farmer discussed crop at the field
+the referee checked the jersey before work
+the coach used the timer during work
+the coach checked the whistle before work
+the worker learned about harvest yesterday
+the programmer checked the server before work
+people saw the customer near the branch
+the judge learned about case yesterday
+the worker worked in the field
+people saw the farmer near the farm
+the attorney discussed case at the court
+people saw the coach near the arena
+the worker worked in the field
+the player talked about team with a colleague
+the worker checked the basket before work
+the attorney used the document during work
+the passenger discussed journey at the station
+the musician used the speaker during work
+the witness talked about trial with a colleague
+the attorney worked in the chamber
+the singer used the microphone during work
+the harvester worked in the farm
+the witness worked in the office
+the harvester used the hose during work
+the harvester used the tractor during work
+the student learned about textbook yesterday
+the athlete checked the jersey before work
+people saw the athlete near the field
+people saw the programmer near the datacenter
+the clerk checked the report before work
+the player used the timer during work
+people saw the customer near the bank
+the attorney checked the report before work
+the chef discussed recipe at the kitchen
+the player talked about team with a colleague
+the lawyer worked in the court
+the developer checked the keyboard before work
+the cook checked the plate before work
+the customer checked the form before work
+the coach learned about match yesterday
+the teacher talked about lesson with a colleague
+the gardener discussed harvest at the farm
+the attorney learned about evidence yesterday
+the engineer discussed network at the office
+the harvester learned about crop yesterday
+people saw the surgeon near the clinic
+the singer checked the guitar before work
+the waiter learned about dish yesterday
+people saw the musician near the stage
+the pianist used the piano during work
+the passenger worked in the terminal
+the nurse discussed health at the hospital
+a worker often works near the barn
+the banker learned about payment yesterday
+the nurse used the scanner during work
+the cook checked the plate before work
+the advisor talked about account with a colleague
+the athlete discussed team at the arena
+the cook worked in the restaurant
+the worker worked in the farm
+people saw the judge near the chamber
+the pianist checked the microphone before work
+people saw the teacher near the library
+a guitarist often works near the stage
+people saw the surgeon near the ward
+the worker discussed harvest at the farm
+people saw the baker near the kitchen
+the chef used the oven during work
+a judge often works near the chamber
+the harvester learned about crop yesterday
+the worker checked the basket before work
+the athlete learned about team yesterday
+the musician checked the microphone before work
+the developer discussed data at the datacenter
+the baker used the pan during work
+the waiter discussed meal at the restaurant
+a engineer often works near the datacenter
+the professor talked about exam with a colleague
+the physician checked the syringe before work
+people saw the physician near the ward
+the doctor used the bandage during work
+the physician learned about treatment yesterday
+the harvester discussed soil at the farm
+a doctor often works near the clinic
+the musician discussed concert at the hall
+the baker discussed meal at the restaurant
+people saw the baker near the bakery
+the programmer used the database during work
+the advisor worked in the bank
+the driver learned about journey yesterday
+a pilot often works near the terminal
+the student talked about homework with a colleague
+the athlete worked in the stadium
+the farmer learned about seed yesterday
+the teacher discussed homework at the school
+the referee learned about game yesterday
+a witness often works near the office
+the pilot used the vehicle during work
+the farmer used the basket during work
+the doctor used the syringe during work
+the clerk discussed credit at the branch
+the analyst worked in the datacenter
+the player worked in the field
+the guitarist learned about sound yesterday
+the worker used the basket during work
+a teacher often works near the classroom
+the waiter talked about meal with a colleague
+the baker talked about menu with a colleague
+the referee checked the ball before work
+the referee learned about team yesterday
+the doctor used the stethoscope during work
+the cook discussed dish at the kitchen
+the engineer checked the computer before work
+the banker learned about account yesterday
+the judge learned about trial yesterday
+the guitarist worked in the stage
+the professor used the whiteboard during work
+the doctor learned about health yesterday
+the worker learned about harvest yesterday
+a gardener often works near the farm
+the advisor talked about credit with a colleague
+the tutor checked the pencil before work
+the advisor checked the report before work
+the gardener used the basket during work
+the cook checked the plate before work
+the musician discussed concert at the stage
+a lawyer often works near the office
+a passenger often works near the terminal
+a developer often works near the datacenter
+the athlete worked in the field
+the witness worked in the court
+the doctor learned about patient yesterday
+people saw the referee near the stadium
+the cook used the plate during work
+the witness talked about case with a colleague
+the guitarist checked the piano before work
+the cook discussed dish at the bakery
+the musician used the piano during work
+people saw the player near the field
+people saw the pilot near the terminal
+a harvester often works near the field
+the cook talked about recipe with a colleague
+the player checked the jersey before work
+the conductor learned about route yesterday
+the referee learned about score yesterday
+the customer checked the card before work
+the guitarist talked about song with a colleague
+people saw the baker near the restaurant
+the teacher learned about textbook yesterday
+the athlete talked about score with a colleague
+the doctor used the bandage during work
+the coach learned about team yesterday
+the nurse talked about medicine with a colleague
+people saw the nurse near the clinic
+the judge used the report during work
+the musician worked in the stage
+the witness discussed law at the court
+people saw the surgeon near the ward
+the nurse learned about health yesterday
+people saw the pilot near the terminal
+the engineer checked the computer before work
+the gardener discussed harvest at the farm
+the musician talked about music with a colleague
+the singer used the microphone during work
+people saw the engineer near the office
+the singer discussed concert at the studio
+a guitarist often works near the studio
+people saw the physician near the ward
+a tutor often works near the library
+people saw the developer near the laboratory
+the professor worked in the classroom
+people saw the programmer near the office
+people saw the athlete near the arena
+the analyst used the database during work
+the programmer learned about network yesterday
+the pilot learned about ticket yesterday
+the doctor checked the syringe before work
+the referee checked the jersey before work
+the doctor checked the scanner before work
+the lawyer learned about law yesterday
+the player used the jersey during work
+the advisor checked the form before work
+the developer talked about code with a colleague
+a surgeon often works near the ward
+the pilot used the map during work
+the worker worked in the barn
+people saw the pilot near the terminal
+the teacher checked the whiteboard before work
+the tutor discussed textbook at the library
+the physician discussed patient at the clinic
+people saw the athlete near the arena
+people saw the physician near the ward
+the harvester used the shovel during work
+people saw the passenger near the station
+the doctor worked in the clinic
+the referee used the timer during work
+the attorney learned about evidence yesterday
+the conductor learned about journey yesterday
+people saw the musician near the studio
+people saw the developer near the laboratory
+the worker worked in the farm
+the guitarist used the guitar during work
+a passenger often works near the airport
+the lawyer learned about case yesterday
+the baker worked in the kitchen
+a banker often works near the office
+people saw the programmer near the office
+the player discussed match at the stadium
+the passenger learned about ticket yesterday
+the nurse used the scanner during work
+the baker discussed meal at the kitchen
+a pianist often works near the hall
+the clerk worked in the office
+the banker discussed credit at the branch
+the farmer checked the hose before work
+people saw the farmer near the field
+the waiter discussed recipe at the bakery
+the banker talked about payment with a colleague
+a referee often works near the arena
+the driver discussed route at the station
+a tutor often works near the library
+the student learned about lesson yesterday
+the chef learned about recipe yesterday
+people saw the cook near the kitchen
+the nurse worked in the ward
+people saw the professor near the school
+people saw the passenger near the station
+the banker used the form during work
+the singer checked the microphone before work
+people saw the chef near the kitchen
+a guitarist often works near the studio
+people saw the tutor near the school
+the attorney worked in the chamber
+the attorney used the file during work
+the attorney used the report during work
+the clerk talked about account with a colleague
+the customer checked the calculator before work
+the worker discussed seed at the farm
+the banker worked in the bank
+the pilot discussed journey at the station
+the baker talked about dish with a colleague
+the musician used the microphone during work
+the nurse learned about medicine yesterday
+the player used the jersey during work
+a programmer often works near the laboratory
+the referee used the ball during work
+the attorney used the report during work
+a singer often works near the studio
+the coach used the whistle during work
+the judge discussed law at the chamber
+people saw the player near the field
+the cook worked in the restaurant
+the programmer checked the server before work
+the doctor checked the scanner before work
+a waiter often works near the restaurant
+the passenger discussed ticket at the airport
+the analyst talked about network with a colleague
+the student talked about lesson with a colleague
+people saw the athlete near the stadium
+the pianist used the guitar during work
+a harvester often works near the farm
+the programmer checked the computer before work
+the customer checked the card before work
+people saw the guitarist near the stage
+the conductor discussed journey at the station
+the waiter worked in the bakery
+the professor worked in the classroom
+a tutor often works near the library
+the advisor checked the form before work
+a clerk often works near the office
+the doctor discussed medicine at the hospital
+the passenger worked in the airport
+the player used the whistle during work
+the harvester talked about harvest with a colleague
+people saw the driver near the airport
+people saw the chef near the kitchen
+the conductor discussed route at the terminal
+the banker used the form during work
+the worker used the shovel during work
+the customer discussed account at the office
+a customer often works near the bank
+the waiter talked about recipe with a colleague
+people saw the gardener near the farm
+the referee used the ball during work
+the programmer worked in the datacenter
+the chef used the knife during work
+a passenger often works near the airport
+the pianist discussed music at the studio
+people saw the professor near the library
+the conductor learned about journey yesterday
+a professor often works near the school
+the nurse learned about health yesterday
+the customer discussed payment at the branch
+a analyst often works near the laboratory
+the banker checked the report before work
+the surgeon talked about patient with a colleague
+the passenger discussed route at the terminal
+the cook used the knife during work
+the physician used the stethoscope during work
+the baker used the oven during work
+people saw the farmer near the barn
+people saw the analyst near the laboratory
+a farmer often works near the farm
+the physician learned about health yesterday
+a cook often works near the kitchen
+the attorney worked in the office
+the lawyer worked in the court
+people saw the developer near the datacenter
+the pianist learned about music yesterday
+the player talked about game with a colleague
+the analyst used the computer during work
+the surgeon discussed medicine at the ward
+the baker checked the oven before work
+the tutor talked about homework with a colleague
+the professor worked in the classroom
+the gardener used the shovel during work
+the athlete talked about match with a colleague
+the professor talked about exam with a colleague
+the conductor talked about route with a colleague
+a clerk often works near the bank
+the engineer learned about network yesterday
+the clerk learned about loan yesterday
+the clerk checked the card before work
+a chef often works near the kitchen
+the pilot used the radio during work
+the baker used the oven during work
+the farmer used the basket during work
+people saw the musician near the studio
+the passenger talked about travel with a colleague
+the surgeon worked in the clinic
+people saw the engineer near the datacenter
+the professor checked the whiteboard before work
+the musician discussed concert at the hall
+people saw the teacher near the school
+the attorney learned about case yesterday
+the gardener talked about soil with a colleague
+a guitarist often works near the studio
+the professor checked the notebook before work
+people saw the developer near the datacenter
+a chef often works near the restaurant
+the professor learned about textbook yesterday
+the customer talked about payment with a colleague
+the pilot worked in the airport
+the driver learned about ticket yesterday
+the attorney learned about law yesterday
+a lawyer often works near the office
+the passenger learned about journey yesterday
+the harvester worked in the barn
+the cook learned about meal yesterday
+people saw the nurse near the clinic
+the player used the ball during work
+the doctor talked about patient with a colleague
+the physician learned about patient yesterday
+the musician worked in the hall
+the pianist checked the piano before work
+a clerk often works near the office
+a customer often works near the branch
+the physician worked in the ward
+the doctor checked the scanner before work
+the driver discussed travel at the terminal
+the programmer worked in the office
+the baker learned about dish yesterday
+the judge discussed trial at the court
+the analyst checked the computer before work
+the nurse talked about treatment with a colleague
+the tutor checked the pencil before work
+people saw the programmer near the datacenter
+a teacher often works near the library
+the pilot checked the map before work
+people saw the harvester near the barn
+the teacher worked in the classroom
+the banker used the form during work
+people saw the baker near the bakery
+people saw the surgeon near the clinic
+the lawyer checked the file before work
+the attorney discussed case at the chamber
+the coach used the jersey during work
+a surgeon often works near the clinic
+the lawyer learned about case yesterday
+the clerk discussed payment at the branch
+a gardener often works near the barn
+a witness often works near the chamber
+the athlete discussed match at the arena
+a nurse often works near the ward
+the attorney used the file during work
+the pilot discussed route at the airport
+the clerk discussed loan at the branch
+the engineer used the server during work
+the surgeon talked about patient with a colleague
+the nurse used the scanner during work
+the witness discussed trial at the court
+the player discussed match at the arena
+the nurse used the syringe during work
+the cook learned about dish yesterday
+the physician talked about medicine with a colleague
+the attorney worked in the office
+the guitarist worked in the studio
+the cook talked about menu with a colleague
+the cook discussed meal at the restaurant
+the waiter learned about meal yesterday
+the surgeon discussed treatment at the hospital
+the analyst used the keyboard during work
+the harvester worked in the farm
+the tutor checked the textbook before work
+the referee learned about team yesterday
+the harvester checked the tractor before work
+the developer worked in the datacenter
+the conductor worked in the airport
+the player talked about team with a colleague
+the witness worked in the chamber
+the lawyer discussed trial at the court
+a nurse often works near the clinic
+a tutor often works near the classroom
+the analyst learned about data yesterday
+the developer talked about data with a colleague
+the waiter checked the plate before work
+the engineer checked the keyboard before work
+people saw the singer near the hall
+people saw the farmer near the field
+people saw the harvester near the field
+the analyst discussed data at the laboratory
+the attorney learned about law yesterday
+people saw the baker near the restaurant
+the conductor discussed journey at the station
+people saw the witness near the chamber
+a player often works near the field
+people saw the harvester near the farm
+the advisor used the calculator during work
+the farmer learned about crop yesterday
+people saw the engineer near the laboratory
+the baker learned about dish yesterday
+people saw the advisor near the office
+the physician learned about patient yesterday
+a baker often works near the bakery
+the musician discussed music at the stage
+the programmer learned about data yesterday
+people saw the analyst near the office
+the gardener worked in the farm
+the worker talked about soil with a colleague
+the analyst learned about software yesterday
+the lawyer talked about law with a colleague
+the passenger checked the radio before work
+the waiter checked the pan before work
+the tutor used the notebook during work
+the customer used the form during work
+people saw the gardener near the farm
+the athlete talked about score with a colleague
+the referee worked in the field
+the doctor worked in the clinic
+the cook checked the plate before work
+a developer often works near the laboratory
+a worker often works near the barn
+the waiter used the oven during work
+the physician checked the syringe before work
+the driver learned about route yesterday
+a singer often works near the studio
+the clerk learned about payment yesterday
+the pilot checked the ticket before work
+the witness used the report during work
+a analyst often works near the datacenter
+the surgeon used the bandage during work
+the surgeon used the scanner during work
+the attorney checked the document before work
+the programmer discussed network at the office
+the clerk learned about payment yesterday
+people saw the pilot near the terminal
+the worker used the basket during work
+the pilot discussed journey at the terminal
+the athlete learned about game yesterday
+the attorney used the record during work
+the attorney talked about law with a colleague
+people saw the player near the field
+the driver checked the map before work
+a cook often works near the restaurant
+a referee often works near the arena
+the banker talked about credit with a colleague
+the conductor talked about ticket with a colleague
+a referee often works near the arena
+the player checked the jersey before work
+people saw the singer near the stage
+the pianist worked in the hall
+the doctor talked about patient with a colleague
+the lawyer checked the file before work
+people saw the programmer near the datacenter
+the driver discussed ticket at the airport
+a pilot often works near the terminal
+the athlete learned about score yesterday
+the witness talked about trial with a colleague
+the nurse learned about treatment yesterday
+a guitarist often works near the studio
+people saw the passenger near the terminal
+the student worked in the school
+the advisor learned about payment yesterday
+the referee discussed match at the field
+the advisor discussed credit at the office
+people saw the developer near the datacenter
+the musician discussed sound at the stage
+people saw the cook near the bakery
+the judge discussed evidence at the office
+the musician checked the guitar before work
+the analyst discussed network at the office
+people saw the passenger near the station
+the coach worked in the arena
+the engineer discussed software at the datacenter
+the developer used the database during work
+the coach talked about game with a colleague
+a lawyer often works near the chamber
+the pilot checked the vehicle before work
+the baker worked in the bakery
+the conductor learned about journey yesterday
+people saw the gardener near the field
+the baker checked the knife before work
+the banker discussed payment at the bank
+a judge often works near the court
+people saw the pianist near the studio
+the programmer talked about network with a colleague
+a coach often works near the stadium
+the surgeon checked the stethoscope before work
+the surgeon talked about treatment with a colleague
+the nurse learned about treatment yesterday
+the tutor talked about exam with a colleague
+the analyst talked about code with a colleague
+the programmer worked in the laboratory
+the harvester checked the tractor before work
+people saw the musician near the stage
+the conductor worked in the airport
+a nurse often works near the clinic
+the judge worked in the court
+the player discussed game at the arena
+the physician used the stethoscope during work
+people saw the surgeon near the ward
+a athlete often works near the stadium
+people saw the doctor near the ward
+the gardener checked the tractor before work
+people saw the tutor near the school
+the waiter talked about dish with a colleague
+the singer used the guitar during work
+the athlete used the whistle during work
+the engineer talked about data with a colleague
+the engineer checked the computer before work
+the customer learned about payment yesterday
+the student talked about homework with a colleague
+the programmer checked the keyboard before work
+the referee used the jersey during work
+the customer used the card during work
+people saw the teacher near the library
+a musician often works near the studio
+the player talked about game with a colleague
+the student used the pencil during work
+the judge learned about evidence yesterday
+the doctor learned about medicine yesterday
+the analyst worked in the datacenter
+the coach worked in the stadium
+the nurse worked in the clinic
+the professor checked the textbook before work
+a student often works near the library
+a analyst often works near the laboratory
+the player worked in the stadium
+people saw the physician near the clinic
+a doctor often works near the ward
+the programmer learned about data yesterday
+a teacher often works near the library
+the attorney used the report during work
+the musician discussed song at the stage
+the driver worked in the station
+the worker talked about soil with a colleague
+the athlete checked the timer before work
+a farmer often works near the barn
+the customer used the calculator during work
+the nurse checked the scanner before work
+the judge learned about trial yesterday
+the doctor checked the bandage before work
+the advisor worked in the branch
+a programmer often works near the datacenter
+the attorney used the report during work
+the waiter worked in the restaurant
+people saw the professor near the school
+the nurse checked the bandage before work
+people saw the surgeon near the ward
+the musician used the guitar during work
+people saw the pianist near the studio
+a athlete often works near the arena
+the tutor talked about textbook with a colleague
+the professor checked the textbook before work
+a singer often works near the stage
+the chef discussed dish at the kitchen
+the banker checked the report before work
+the doctor used the scanner during work
+people saw the clerk near the office
+the chef checked the pan before work
+the referee used the whistle during work
+the banker talked about account with a colleague
+a baker often works near the kitchen
+the player worked in the arena
+a doctor often works near the clinic
+the physician discussed health at the hospital
+the developer checked the database before work
+the coach discussed game at the field
+a harvester often works near the barn
+the worker discussed seed at the farm
+the professor checked the textbook before work
+the pianist talked about song with a colleague
+people saw the analyst near the laboratory
+the attorney learned about trial yesterday
+the professor learned about homework yesterday
+the student discussed homework at the school
+the singer discussed song at the hall
+the lawyer talked about evidence with a colleague
+a customer often works near the office
+the clerk discussed account at the bank
+the student checked the notebook before work
+a lawyer often works near the chamber
+a surgeon often works near the ward
+a pilot often works near the station
+the gardener used the hose during work
+people saw the coach near the field
+a tutor often works near the library
+the gardener learned about seed yesterday
+the banker learned about credit yesterday
+the programmer checked the keyboard before work
+the waiter learned about meal yesterday
+the musician used the microphone during work
+the analyst checked the keyboard before work
+a professor often works near the school
+people saw the doctor near the hospital
+the chef used the plate during work
+the chef learned about menu yesterday
+the programmer talked about code with a colleague
+the guitarist used the speaker during work
+the surgeon talked about treatment with a colleague
+a waiter often works near the restaurant
+the programmer used the keyboard during work
+the banker used the report during work
+the student used the pencil during work
+the conductor checked the radio before work
+the driver checked the map before work
+the waiter used the oven during work
+the guitarist worked in the stage
+the judge checked the report before work
+the programmer talked about data with a colleague
+the advisor used the form during work
+the lawyer used the report during work
+a cook often works near the bakery
+the coach used the whistle during work
+the judge learned about case yesterday
+the musician talked about sound with a colleague
+the gardener talked about harvest with a colleague
+the pianist worked in the hall
+the customer discussed loan at the branch
+a harvester often works near the barn
+the developer worked in the laboratory
+the worker used the tractor during work
+the cook discussed recipe at the restaurant
+people saw the advisor near the bank
+the tutor talked about homework with a colleague
+the nurse talked about health with a colleague
+the surgeon talked about medicine with a colleague
+the driver worked in the airport
+people saw the witness near the court
+the clerk used the calculator during work
+a referee often works near the stadium
+the waiter worked in the kitchen
+the surgeon used the bandage during work
+the driver worked in the station
+the athlete used the jersey during work
+the advisor talked about credit with a colleague
+the physician checked the scanner before work
+people saw the conductor near the terminal
+the pilot learned about ticket yesterday
+the worker checked the shovel before work
+a doctor often works near the hospital
+a physician often works near the ward
+the judge worked in the court
+the baker learned about dish yesterday
+a athlete often works near the field
+the referee discussed game at the stadium
+the banker used the report during work
+people saw the pilot near the station
+the teacher used the textbook during work
+the guitarist used the piano during work
+the developer checked the database before work
+the cook learned about dish yesterday
+the harvester talked about seed with a colleague
+the driver discussed route at the station
+a passenger often works near the station
+the physician worked in the clinic
+the waiter checked the pan before work
+people saw the player near the field
+the coach discussed score at the field
+a doctor often works near the clinic
+the clerk used the report during work
+the physician talked about treatment with a colleague
+the musician checked the piano before work
+the surgeon worked in the clinic
+the conductor worked in the terminal
+the developer checked the database before work
+a coach often works near the field
+the cook talked about meal with a colleague
+the customer discussed payment at the branch
+people saw the singer near the stage
+people saw the pianist near the stage
+the pianist talked about song with a colleague
+the baker learned about menu yesterday
+the musician used the piano during work
+the pianist worked in the studio
+the passenger discussed travel at the airport
+the singer worked in the studio
+the waiter worked in the restaurant
+the conductor checked the vehicle before work
+the teacher talked about lesson with a colleague
+the baker learned about recipe yesterday
+the programmer worked in the laboratory
+a pianist often works near the studio
+the witness discussed evidence at the office
+the judge discussed evidence at the office
+people saw the pilot near the station
+the baker learned about meal yesterday
+the doctor checked the syringe before work
+the professor discussed lesson at the library
+a nurse often works near the hospital
+the tutor learned about lesson yesterday
+the coach used the ball during work
+the judge checked the file before work
+the customer discussed loan at the office
+the farmer discussed soil at the field
+the nurse talked about medicine with a colleague
+the gardener checked the shovel before work
+the conductor checked the ticket before work
+the coach checked the jersey before work
+the singer used the speaker during work
+the driver talked about ticket with a colleague
+the nurse learned about health yesterday
+the nurse learned about patient yesterday
