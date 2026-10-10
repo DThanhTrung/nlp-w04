@@ -8,7 +8,7 @@ from utils import (
     compute_ppmi
 )
 
-def main(
+def get_answer_for_task_2(
     test_dir : str = "data/test.csv"
 ) :
     raw_sentences = load_data_for_task_2()
@@ -46,9 +46,4 @@ def main(
         "label": labels,
     })
 
-    print(result_df)
     return result_df
-
-
-if __name__ == "__main__" :
-    task_2_ans = main()

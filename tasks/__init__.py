@@ -1,0 +1,3 @@
+from tasks.task_1 import get_answer_for_task_1
+from tasks.task_2 import get_answer_for_task_2
+from tasks.task_3 import get_answer_for_task_3
